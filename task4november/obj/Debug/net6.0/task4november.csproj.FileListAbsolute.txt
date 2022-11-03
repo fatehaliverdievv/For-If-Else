@@ -1,0 +1,15 @@
+C:\Users\Fateh\source\repos\task4november\task4november\bin\Debug\net6.0\task4november.exe
+C:\Users\Fateh\source\repos\task4november\task4november\bin\Debug\net6.0\task4november.deps.json
+C:\Users\Fateh\source\repos\task4november\task4november\bin\Debug\net6.0\task4november.runtimeconfig.json
+C:\Users\Fateh\source\repos\task4november\task4november\bin\Debug\net6.0\task4november.dll
+C:\Users\Fateh\source\repos\task4november\task4november\bin\Debug\net6.0\task4november.pdb
+C:\Users\Fateh\source\repos\task4november\task4november\obj\Debug\net6.0\task4november.csproj.AssemblyReference.cache
+C:\Users\Fateh\source\repos\task4november\task4november\obj\Debug\net6.0\task4november.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fateh\source\repos\task4november\task4november\obj\Debug\net6.0\task4november.AssemblyInfoInputs.cache
+C:\Users\Fateh\source\repos\task4november\task4november\obj\Debug\net6.0\task4november.AssemblyInfo.cs
+C:\Users\Fateh\source\repos\task4november\task4november\obj\Debug\net6.0\task4november.csproj.CoreCompileInputs.cache
+C:\Users\Fateh\source\repos\task4november\task4november\obj\Debug\net6.0\task4november.dll
+C:\Users\Fateh\source\repos\task4november\task4november\obj\Debug\net6.0\refint\task4november.dll
+C:\Users\Fateh\source\repos\task4november\task4november\obj\Debug\net6.0\task4november.pdb
+C:\Users\Fateh\source\repos\task4november\task4november\obj\Debug\net6.0\task4november.genruntimeconfig.cache
+C:\Users\Fateh\source\repos\task4november\task4november\obj\Debug\net6.0\ref\task4november.dll
